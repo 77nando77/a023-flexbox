@@ -41,7 +41,7 @@ section{
 }
 
 #section-4{
-  flex-grow: 3;
+  flex-basis: 200px;
 }
 
 #section-5{
